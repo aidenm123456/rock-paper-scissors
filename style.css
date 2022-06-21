@@ -1,0 +1,28 @@
+.btn-div {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.bottom-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.bottom-div div{
+    margin: 10px;
+}
+
+#results {
+    font-weight: bold;
+}
+
+#gameOver {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
